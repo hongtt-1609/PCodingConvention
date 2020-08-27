@@ -1,0 +1,1 @@
+# DotNet Editor Config
