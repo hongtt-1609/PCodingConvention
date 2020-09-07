@@ -205,7 +205,7 @@ return collection;
 ```
 
 #### 3.6 Quy ước về điều kiện trong câu lệnh if
-Tránh viết điều kiện trong khối lệnh if phực tạp. Hãy đơn giản nó bằng các tạo các function hoăc các biến.
+Tránh viết điều kiện trong khối lệnh if phức tạp. Hãy đơn giản nó bằng các tạo các function hoặc các biến.
 ```csharp
 if (((value > _highScore) && (value != _highScore)) && (value < _maxScore))
 {…} 
