@@ -14,7 +14,8 @@ Phần này bao gồm một tập hợp các quy tắc coding trong dự án Dot
 - Thêm ít nhất một dòng trống giữa các method, thuộc tính.
 - Dấu mở ngoặc "{" được đặt trên 1 dòng mới.
 - Function có không quá 7 params, nếu quá thì phải tạo model
-- Phân thân function không nên dài quá 20 dòng.
+- Phân thân function không nên dài quá 20 dòng. ==> Phần thân: Không quá 20 dòng thì phải là không tính comment, Tính xuống dòng lệnh if-else thì 20 dòng hơi ngắn
+
 - Số lượng chữ mỗi dòng nên hạn chế dưới 80 kí tự và tối đa 130 kí tự.
 - File source code không nên quá dài(không nên vượt quá 2000 LOC (Lines of Code)).
 - Nên thực hiện format lại code bằng tool hỗ trợ. (trên vs sử dụng cú pháp Ctrl + K + D)
